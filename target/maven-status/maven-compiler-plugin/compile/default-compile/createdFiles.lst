@@ -1,0 +1,6 @@
+com/iim/jmeter/proxysql/QueryDigestSampler.class
+com/iim/jmeter/proxysql/QueryCommandCounters.class
+com/iim/jmeter/proxysql/QueryGlobalStats.class
+com/iim/jmeter/proxysql/ProxySQL.class
+com/iim/jmeter/proxysql/QuerySlowSummary.class
+com/iim/jmeter/proxysql/QueryDigestResetSampler.class
